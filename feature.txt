@@ -1,2 +1,3 @@
 테스트8
 local1 sample
+나는 local1 기능을 추가했다.
