@@ -5,3 +5,4 @@ local1 sample2
 local1 sample3
 local1 sample4
 local1 sample5
+local1 sample6
