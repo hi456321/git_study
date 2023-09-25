@@ -3,3 +3,4 @@ local1 sample
 나는 local1 기능을 추가했다.
 local1 sample2
 local1 sample3
+local1 sample4
